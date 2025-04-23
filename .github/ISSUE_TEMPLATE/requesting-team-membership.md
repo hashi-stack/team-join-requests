@@ -1,7 +1,7 @@
 ---
 name: Requesting Team Membership
 about: Describe this issue template's purpose here.
-title: ''
+title: Requesting Team Membership
 labels: ''
 assignees: srahul3
 
