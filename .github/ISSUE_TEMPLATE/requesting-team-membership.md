@@ -28,4 +28,7 @@ assignees: srahul3
 - Need access for collaboration/review
 - Other: _(specify)_
 
+### 🙋‍♂️ Accept invite
+Once this issue is closed, do not forget to accpet the invite which will be sent to you over the email.
+
 ---
